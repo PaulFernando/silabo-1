@@ -1,6 +1,7 @@
 # Sílabo para Aplicaciones Distribuidas
 
 ## Clase 12
+* Ver la lección [Lesson 3: Project](https://classroom.udacity.com/courses/ud617/lessons/313947755/concepts/24650686840923)
 * Subir el código de los ejercicios de MapReduce [aquí](https://classroom.github.com/assignment-invitations/e1ccfa27e7842039a2d6accd29364552)
 
 ## Clase 13
