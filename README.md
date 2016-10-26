@@ -1,10 +1,10 @@
 # Sílabo para Aplicaciones Distribuidas
 
-* **Materia:** ASI_TSI583 Diseño de Interfaces
+* **Materia:** ASI_TSI653 Aplicaciones Distribuidas
 * **Lugar:** 22A
-* **Horario:**  Viernes de 12:00 a 15:00
+* **Horario:**  Miércoles de 17:00 a 20:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
-* Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-DDI-2016B/silabo/issues)
+* Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-AD-2016B/silabo/issues)
 También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordinar una hora de reunión.
 
 ## Objetivos del Curso
